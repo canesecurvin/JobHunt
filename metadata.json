@@ -1,0 +1,7 @@
+{
+  "name": "AI Job Hunter",
+  "description": "An AI-powered job search assistant that curates job postings based on your resume and target companies. It finds the best matches and helps you track your application status.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
